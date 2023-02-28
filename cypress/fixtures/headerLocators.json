@@ -1,0 +1,7 @@
+{
+  "headerContainer" : ".navbar__container",
+  "mainLogo" : ".navbar_navbar__logo__X5SC2",
+  "homeLink" : "a[href$='/home']",
+  "languageSelector" : ".navbar_language_select__40G2Z",
+  "getEstimateButton" : ".navbar_getEstimate__4Mwti"
+}
